@@ -1,2 +1,2 @@
 # Heptatis-Prediction
-This ml-based approch to predict heptatis disease
+This is ml-based approch to predict heptatis disease
